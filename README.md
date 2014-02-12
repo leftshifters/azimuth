@@ -1,4 +1,4 @@
-# azimuth [![Build Status]( )](http://travis-ci.org/vxtindia/azimuth)
+# azimuth [![Build Status](https://secure.travis-ci.org/vxtindia/azimuth.png?branch=master)](http://travis-ci.org/vxtindia/azimuth)
 
 Determines azimuth (compass direction) & distance of the second point (B) as seen from the first point (A), given latitude, longitude & elevation of two points on the Earth
 
