@@ -1,4 +1,4 @@
-# azimuth [![Build Status](https://secure.travis-ci.org/detj/azimuth.png?branch=master)](http://travis-ci.org/detj/azimuth)
+# azimuth [![Build Status](https://secure.travis-ci.org/vxtindia/azimuth.png?branch=master)](http://travis-ci.org/vxtindia/azimuth)
 
 Determines azimuth (compass direction) & distance of the second point (B) as seen from the first point (A), given latitude, longitude & elevation of two points on the Earth
 
@@ -18,7 +18,7 @@ calculate.azimuth({
   lat: 18.513964,
   lng: 73.924471,
   elv: 562
-}); // "{ distance: 3.9191090699705464, azimuth: should be 353.8149364508667, altitude: 1.3478271564744548 }"
+}); // "{ distance: 3.9191090699705464, azimuth: 353.8149364508667, altitude: 1.3478271564744548 }"
 ```
 
 ## Tests
